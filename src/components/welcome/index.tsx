@@ -9,10 +9,8 @@ export function Welcome(){
         Seja Bem-Vindo ao Nearby!
       </Text>
       <Text style={styles.subtitle}>
-        Tenha cupons de vantagem para usar em {"\n"}seus estabelecimentos favoritos.
-      </Text>
-      <Text style={styles.subtitle}>
-        Veja como funciona:
+        Tenha cupons de vantagem para usar em {"\n"}
+        seus estabelecimentos favoritos.
       </Text>
     </View>
   );

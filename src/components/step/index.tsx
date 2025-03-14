@@ -1,7 +1,8 @@
 import { View, Text } from 'react-native';
-import { styles } from './styles';
-import { colors } from '@/styles/colors';
 import { IconProps } from '@tabler/icons-react-native';
+
+import { styles } from './styles';
+import { colors } from '@/styles/theme';
 
 type StepProps = {
   title: string,
